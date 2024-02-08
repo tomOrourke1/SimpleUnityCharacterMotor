@@ -8,9 +8,7 @@ The code is an edited version as from this video:
 
 
 Use:
-- currently I'd recommend using the MoveMK3 function
-  - this has more of the usecase I'm lookingfor 
-
+- currently I'd recommend using the MoveMK3(Vector3 velocity, float deltaTime) function.
 Whats next:
 - I'm planning on adding a velocity handler to this.
 - That way it will be able to internally handle it's velocity.
