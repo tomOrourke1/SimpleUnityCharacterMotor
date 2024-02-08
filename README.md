@@ -1,4 +1,4 @@
-### Simple Collide and Slide Unity Script
+# Simple Collide and Slide Unity Script
 
 This contains a unity script that contains a few iterations for a simple collide and slide character motor. 
 As of right now it barely functions but I'll be working on it in the future to suit my needs.
