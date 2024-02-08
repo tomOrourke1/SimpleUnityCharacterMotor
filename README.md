@@ -6,3 +6,7 @@ As of right now it barely functions but I'll be working on it in the future to s
 The code is an edited version as from this video:
 - https://youtu.be/YR6Q7dUz2uk?si=6yVCn_wp-GwgsZgQ
 
+
+Use:
+- currently I'd recommend using the MoveMK3 function
+  - this has more of the usecase I'm lookingfor
