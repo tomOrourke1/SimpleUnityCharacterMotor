@@ -9,6 +9,8 @@ The code is an edited version as from this video:
 
 ### Use:
 - currently I'd recommend using the MoveMK3(Vector3 velocity, float deltaTime) function.
+- In your update where you call this, make sure you call the CheckGrounded() function before you do anything.
+    - as of right now it does not internally check grounded status.
 
 ### Whats next:
 - I'm planning on adding a velocity handler to this.
