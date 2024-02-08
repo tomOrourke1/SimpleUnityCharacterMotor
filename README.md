@@ -9,4 +9,9 @@ The code is an edited version as from this video:
 
 Use:
 - currently I'd recommend using the MoveMK3 function
-  - this has more of the usecase I'm lookingfor
+  - this has more of the usecase I'm lookingfor 
+
+Whats next:
+- I'm planning on adding a velocity handler to this.
+- That way it will be able to internally handle it's velocity.
+- For as of right now I'm hitting an issue with not claming the velocity when I'm pushed against a wall or something.
